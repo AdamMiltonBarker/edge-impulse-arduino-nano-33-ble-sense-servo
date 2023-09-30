@@ -2,6 +2,7 @@
 ![Arduino Nano 33 BLE SENSE AI Powered Servo With Edge Impulse](assets/images/arduino-keyword-detection-servo.jpg "Arduino Nano 33 BLE SENSE AI Powered Servo With Edge Impulse")
 
 Project by [Adam Milton-Barker](https://www.AdamMiltonBarker.com)
+Github project [Arduino Nano 33 BLE SENSE AI Powered Servo With Edge Impulse](https://github.com/AdamMiltonBarker/edge-impulse-arduino-nano-33-ble-sense-servo)
 
 # Introduction
 
